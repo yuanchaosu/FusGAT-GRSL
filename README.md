@@ -15,7 +15,11 @@ TianGong-1 data (simulated data) is used as references.
 
 If you don't have a proper runtime environment yet, we've uploaded one that's already been tuned.
 
+Python environment:
 https://drive.google.com/file/d/1fO3ecdIlrm2efFHZkCNHtXxVvbWz7a_G/view?usp=drive_link
+
+Data download:
+https://github.com/yuanchaosu/TGRS-daan
 
 ### Contact
 If you happen to encounter any bugs while using this code, please do not hesitate to contact us.
