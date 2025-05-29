@@ -19,7 +19,7 @@ Python environment:
 https://drive.google.com/file/d/1fO3ecdIlrm2efFHZkCNHtXxVvbWz7a_G/view?usp=drive_link
 
 Data download:
-https://github.com/yuanchaosu/TGRS-daan
+https://drive.google.com/file/d/1wYEk3EfVFRyY_s_4Jxy4T5lT2pxJBpgm/view?usp=drive_link
 
 ### Contact
 If you happen to encounter any bugs while using this code, please do not hesitate to contact us.
